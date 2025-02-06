@@ -9,3 +9,4 @@ int is_reverse_arithmetic(char str[]);
 int is_balanced_tripartite(char str[]);
 int is_balanced_bipartite(char str[]);
 int is_singleton(char str[]);
+//test 123
